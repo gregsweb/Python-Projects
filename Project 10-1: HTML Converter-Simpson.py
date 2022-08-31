@@ -52,19 +52,5 @@ Explanation:
 
 
 
-Now we 
 
-We use sub() method to replace the tags with "".
-
-Now we remove empty elements in the list using loop.
-
-Now the list contains the desired data which is obtained after the removal of tags and spaces.
-
-We print the data in the list in the desired format.
-
-Note:
-
-Make sure that the indentation is followed correctly when you try the code.
-
-Store the html file and code file in the same location i.e., under same folder.
 
